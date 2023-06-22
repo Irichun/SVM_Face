@@ -13,3 +13,5 @@ P5：年龄不均衡分类数据的特殊采样方式
 P6：SVM年龄分类程序
 
 P7：SVM情感分类程序
+
+注：由于rawdata文件、dlib的shape_predictor_68_face_landmarks模型文件过大，无法上传，导致P2
